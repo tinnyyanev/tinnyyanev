@@ -76,7 +76,7 @@ I'm currently experimenting with:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javscript,cpp,java,linux,git,github,docker,bash,postgresql,matlab,excel" />
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,linux,git,github,docker,bash,postgresql,matlab,excel,enterprisearchitect" />
 
 </div>
 
@@ -122,7 +122,6 @@ That's also why you'll find a mix of software, systems, networking and security 
 
 ---
 
-## A very small terminal
 
 ```text
 $ whoami
@@ -150,27 +149,5 @@ still learning. still building. still breaking things.
 ```
 
 ---
-
-## A few GitHub numbers
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tinnyyanev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=github_dark" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinnyyanev&layout=compact&hide_border=true&theme=github_dark" height="165"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tinnyyanev&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-**Still learning. Still building. Still breaking things.**
 
 </div>
