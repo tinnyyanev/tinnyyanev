@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:8b1e2d,100:161b22&height=190&section=header&text=Hi%2C%20I'm%20YOUR_NAME&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20student%20%7C%20building%20things%20and%20figuring%20out%20why%20they%20work&descAlignY=60&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:8b1e2d,100:161b22&height=190&section=header&text=Hi%2C%20I'm%20tinnyyanev&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20student%20%7C%20building%20things%20and%20figuring%20out%20why%20they%20work&descAlignY=60&descSize=15" width="100%"/>
 
 <br>
 
@@ -11,7 +11,7 @@
 <br><br>
 
 <a href="https://github.com/tinnyyanev">
-  <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-161b22?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-tinnyyanev-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/konstantín-yanev-mihov-33b6103bb">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-161b22?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -76,7 +76,7 @@ I'm currently experimenting with:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,linux,git,github,docker,bash,mysql" />
+<img src="https://skillicons.dev/icons?i=python,javscript,cpp,java,linux,git,github,docker,bash,postgresql,matlab,excel" />
 
 </div>
 
@@ -155,9 +155,9 @@ still learning. still building. still breaking things.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=github_dark" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tinnyyanev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=github_dark" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinnyyanev&layout=compact&hide_border=true&theme=github_dark" height="165"/>
 
 </div>
 
@@ -165,7 +165,7 @@ still learning. still building. still breaking things.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tinnyyanev&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
