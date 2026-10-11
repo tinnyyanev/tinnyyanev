@@ -13,7 +13,7 @@
 <a href="https://github.com/tinnyyanev">
   <img src="https://img.shields.io/badge/GitHub-tinnyyanev-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/konstantín-yanev-mihov-33b6103bb">
+<a href="www.linkedin.com/in/konstantin-yanev-mihov-33b6103bb">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-161b22?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
